@@ -1,4 +1,4 @@
-# BMI Classification Web
+# BMI Predictor Website
 ## Dataset
 To create the required machine learning model I used a dataset from Kaggle which of course you can download at the link below
 
