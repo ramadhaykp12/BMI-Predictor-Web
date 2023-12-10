@@ -34,6 +34,8 @@ After I train and evaluate the SVM model I have selected the tuning parameters. 
 ## Model Deployment on Website
 I deployed my model to a website using Flask. Below is a view of the website
 
+![image](https://github.com/ramadhaykp12/BMI-Predictor-Web/assets/88931175/70b96ee0-df9d-46ab-bb63-b1ea1535b7a7)
+
 
 
 
