@@ -4,7 +4,7 @@ Build a simple web app for predicting body mass index (BMI) with Python. Web app
 ## Installation
 Clone this repository
 ```bash
-git clone https://github.com/ramadhaykp12/BMI-Preictor-Web.git
+git clone https://github.com/ramadhaykp12/BMI-Predictor-Web.git
 cd BMI-Preictor-Web
 ```
 Install all required dependencies:
