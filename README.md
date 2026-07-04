@@ -1,5 +1,5 @@
 # BMI Predictor Website
-Build a simple web app for predicting body mass index (BMI) with Python. Web app builded using Streamlit, model trained with Scikit-Learn using dataset from Kaggle.
+Build a simple web app for predicting body mass index (BMI) with Python. Web app builded using Flask and Bootstrap, model trained with Scikit-Learn using dataset from Kaggle.
 
 ## Installation
 Clone this repository
